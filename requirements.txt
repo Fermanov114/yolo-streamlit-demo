@@ -1,0 +1,9 @@
+streamlit
+ultralytics
+opencv-python
+numpy
+pillow
+requests
+beautifulsoup4
+matplotlib
+pandas
