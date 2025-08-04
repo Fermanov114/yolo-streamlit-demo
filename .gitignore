@@ -1,0 +1,45 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# VSCode / PyCharm / JetBrains
+.vscode/
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Streamlit cache
+.streamlit/
+
+# YOLOv5/Ultralytics specific
+runs/
+weights/
+*.pt
+*.onnx
+
+# Image data folders (optional, if generated)
+live_input/
+static_input/
+
+# Uploaded results
+inference_results/
+inference_output/
